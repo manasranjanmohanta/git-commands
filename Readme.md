@@ -3,4 +3,5 @@
 3. To unstage the last three commits:`git reset HEAD^3`.
 4. To unstage changes to a certain file from HEAD: `git reset <filename>`
 5. To clone from different branch: ` git clone -b <branch-name> <repository-url>`
+6. To show all the commit changes or history : `git log` or `git log --pretty=format:"%h - %an, %ar : %s"`
    
