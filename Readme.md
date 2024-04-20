@@ -4,4 +4,5 @@
 4. To unstage changes to a certain file from HEAD: `git reset <filename>`
 5. To clone from different branch: ` git clone -b <branch-name> <repository-url>`
 6. To show all the commit changes or history : `git log` or `git log --pretty=format:"%h - %an, %ar : %s"`
+7. To set your current branch to upstream : `git push --set-upstream origin <branch-name>`
    
