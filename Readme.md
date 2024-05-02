@@ -6,4 +6,7 @@
 6. To unstage the last three commits:`git reset HEAD^3`.
 7. To unstage changes to a certain file from HEAD: `git reset <filename>`
    (To know more about HEAD click [here](https://github.com/manasranjanmohanta/git-commands/blob/main/Git-HEAD.md))
+8. Delete a branch :
+   - To delete a local branch : `git branch -d <branch-name>`
+   - To delete a remote branch : `git push origin --delete <branch_name>`
    
