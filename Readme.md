@@ -12,4 +12,5 @@
 9. To see the local branches : `git branch`
 10. To see the remote branche s : `git branch -r`
 11. To Switch branches : `git checkout <branch-name>` or `git switch <branch-name>` (To know more about [click](https://bluecast.tech/blog/git-switch-branch/) here)
+12. How to revert back to a specific commit - read [Here](https://medium.com/swlh/using-git-how-to-go-back-to-a-previous-commit-8579ccc8180f)
    
